@@ -3,13 +3,13 @@ const chalk = require('chalk')
 
 // ganti info bot dibawah ini
 global.botName = "Strava V4.5"
-global.ownerName = "OwensDev"
-global.botNumber = "62xxxxxx"
-global.devNumber = ["62xxxxxxx"]
+global.ownerName = "kingsukuna"
+global.botNumber = "2347071381634"
+global.devNumber = ["2347071381634"]
 
 global.Auto_Typing = false // auto typing
 global.Auto_Recording = false // auto recording
-global.Auto_ReadPesan = true // auto read messages
+global.Auto_ReadPesan = false // auto read messages
 global.Type_Menu = "v1" // TypeMenu v1:IMAGE v2:TEXT V3:TEXT+QSTATUS
 
 global.domain = "https://example.id" // Ganti Domain Lu
